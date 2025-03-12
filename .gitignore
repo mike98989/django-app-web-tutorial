@@ -1,0 +1,16 @@
+# For Python projects, common ignores:
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.sqlite3
+db.sqlite3
+media/
+static/
